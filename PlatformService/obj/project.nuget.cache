@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmIfpyArLZZrU8GpAnLEjvag5v+/u2JKwqxibJMLgBN8lIiAYtiY1rwpBpCvzh8nf5s0QrpWlMbidnNxySNFDw==",
+  "dgSpecHash": "dCaajKn36HQA+gELdpU0hoKAumxnKgBB3XpRu5bj/H/1vkrX7AynufcdRymifR+kym8SBkkbtyhZV6drgEq8mA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viro1\\Documents\\Projects\\.Net Microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\viro1\\Documents\\Projects\\.NET-MS-Project\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viro1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\viro1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
