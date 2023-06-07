@@ -1,10 +1,13 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace CommandsService.Dtos
 {
-  public class CommandReadDto
+  public class CommandCreateDto
   {
-    public int Id { get; set; }
+    [Required]
     public string HowTo { get; set; }
+
+    [Required]
     public string CommandLine { get; set; }
-    public int PlatformId { get; set; }
   }
 }
